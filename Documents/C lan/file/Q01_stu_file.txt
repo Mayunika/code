@@ -1,3 +1,0 @@
-StRe_no		St_Name		St_age
-11a		abc		20
-11b		bnm		21
