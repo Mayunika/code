@@ -1,0 +1,19 @@
+20:16:04.626: CPU Name: Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+20:16:04.627: CPU Speed: 1190MHz
+20:16:04.627: Physical Cores: 2, Logical Cores: 4
+20:16:04.627: Physical Memory: 7973MB Total, 2889MB Free (NOTE: 32bit programs cannot use more than 3gb)
+20:16:04.627: Windows Version: 10.0 Build 22000 (revision: 348; 64-bit)
+20:16:04.627: Running as administrator: false
+20:16:04.627: Aero is Enabled (Aero is always on for windows 8 and above)
+20:16:04.627: Windows 10 Gaming Features:
+20:16:04.627: 	Game Bar: On
+20:16:04.627: 	Game DVR: On
+20:16:04.628: 	Game DVR Background Recording: Off
+20:16:04.657: Sec. Software Status:
+20:16:04.658: 	Kaspersky Internet Security: enabled (AV)
+20:16:04.659: 	Microsoft Defender Antivirus: disabled (AV)
+20:16:04.659: 	Kaspersky Internet Security: enabled (FW)
+20:16:04.659: 	Microsoft Firewall: disabled (FW)
+22:07:16.052: OBSBasic delete start
+22:07:16.053: All scene data cleared
+22:07:16.053: OBSBasic delete end

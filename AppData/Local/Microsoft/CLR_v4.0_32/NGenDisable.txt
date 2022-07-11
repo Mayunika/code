@@ -1,0 +1,4 @@
+C:\WINDOWS\SysNative\WinMetadata\Windows.Storage.winmd	637714147297759203
+C:\WINDOWS\SysNative\WinMetadata\Windows.Foundation.winmd	637714147292915445
+C:\WINDOWS\SysNative\WinMetadata\Windows.ApplicationModel.winmd	637714147292290546
+C:\WINDOWS\SysNative\WinMetadata\Windows.System.winmd	637714147297915359

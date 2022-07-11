@@ -1,0 +1,2 @@
+DEBUG	15:51:44.512912	src\host_integration\photoshop\automation\PhotoshopAutomation.cpp:135 Photoshop 13.1.2 - Win - 64 bit. Revision 22656 
+DEBUG	19:48:19.217064	src\host_integration\photoshop\automation\PhotoshopAutomation.cpp:36 Action SP Interface Shutdown 
